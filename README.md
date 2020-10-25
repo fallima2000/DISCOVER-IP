@@ -1,2 +1,4 @@
 # DISCOVER-IP
 TUTORIAL - HOW TO DISCOVER A IP
+Colocar o nome e o RA em TODAS as atividades
+Meu nome  FABIO ALVES LIMA RA 1902963 
